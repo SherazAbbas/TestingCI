@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run --browser chrome --spec cypress/e2e/*.js",
-    "test:chrome": "cypress run --browser chrome"
+    "test:chrome": "cypress run --browser chrome",
+    "start": ""
   },
   "keywords": [],
   "author": "",
